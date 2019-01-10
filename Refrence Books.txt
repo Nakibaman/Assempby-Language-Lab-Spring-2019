@@ -1,0 +1,7 @@
+1.Assembly Language for Intel based Computers
+  ->KIP R. IRVINE
+  link: http://b-ok.cc/s/?q=Assembly+Language+for+Intel+based&yearFrom=&yearTo=&language=&extension=&t=0
+2.Assembly Language Programming and Organization 
+of the IBM PC
+  ->Ytha Yu, Charles Marut
+  link: http://b-ok.cc/book/2470696/0d1f1f
